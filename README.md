@@ -2,7 +2,7 @@
 
 EstateNova is a sophisticated, modern real estate platform designed to showcase luxury properties with a seamless, interactive user experience. Built with Next.js 15+, React 19, and Tailwind CSS 4, it features cutting-edge components like an AI property recommender, interactive maps, and fluid animations.
 
-![EstateNova Preview](https://estatenova.com/og-image.jpg)
+![EstateNova Preview]
 
 ## ✨ Features
 
