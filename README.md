@@ -55,7 +55,7 @@ EstateNova is a sophisticated, modern real estate platform designed to showcase 
    npm run dev
    ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [[http://localhost:3000](http://localhost:3000)](https://estatenova-xi.vercel.app/) with your browser to see the result.
 
 ## 📁 Project Structure
 
